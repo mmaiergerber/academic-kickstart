@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Tropical Transition of Hurricane Chris (2012) over the North Atlantic Ocean: A Multi-Scale Investigation of Predictability"
-event:
+event: "33rd Conference on Hurricanes and Tropical Meteorology"
 event_url:
-location: Ponte Vedra, FL, USA
+location: "Ponte Vedra, FL, USA"
 address:
   street:
   city:

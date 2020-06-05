@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Statistical–Dynamical Forecasting of North Atlantic TC Activity on the Subseasonal Time Scales"
-event:
+event: "19th Cyclone Workshop"
 event_url:
-location: Seeon, Bavaria, Germany
+location: "Seeon, Bavaria, Germany"
 address:
   street:
   city:
