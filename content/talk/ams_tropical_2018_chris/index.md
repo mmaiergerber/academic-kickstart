@@ -4,7 +4,7 @@
 title: "Tropical Transition of Hurricane Chris (2012) over the North Atlantic Ocean: A Multi-Scale Investigation of Predictability"
 event:
 event_url:
-location:
+location: Ponte Vedra, FL, USA
 address:
   street:
   city:
@@ -40,7 +40,7 @@ featured: false
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

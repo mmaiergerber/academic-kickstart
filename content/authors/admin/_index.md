@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Associate
+role: Research Associate (PhD student)
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include tropical cyclones, statistical-dynamical modelling and intraseasonal forecasting.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Tropical Cyclones
+- Statistical Forecasting
+- Machine Learning
 
 education:
   courses:
@@ -45,14 +45,15 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=kcyVoJsAAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Michael_Maier-Gerber
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-3677-4414
 - icon: github
   icon_pack: fab
   link: https://github.com/mmaiergerber
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-#- icon: cv
-#  icon_pack: ai
-#  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -64,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in the working group Atmospheric Dynamics, supervised by Andreas H. Fink and Michael Riemer External Link (JGU, Mainz). As a member of the Transregional Collaborative Research Center Waves to Weather External Link, I am working in project C3 (”Predictability of tropical and hybrid cyclones over the North Atlantic Ocean” External Link) on the development of statistical-dynamical models for intraseasonal predictions of tropical cyclone activity. The aim of this work is to investigate a broad range of meteorologically relevant predictors, and to compare different model types and architectures with respect to their performance and physical interpretability.
+I am a PhD student in the working group Atmospheric Dynamics, supervised by Andreas H. Fink and Michael Riemer (JGU, Mainz). As a member of the Transregional Collaborative Research Center Waves to Weather, I am working in project C3 (”Predictability of tropical and hybrid cyclones over the North Atlantic Ocean”) on the development of statistical-dynamical models for intraseasonal predictions of tropical cyclone activity. The aim of this work is to investigate a broad range of meteorologically relevant predictors, and to compare different model types and architectures with respect to their performance and physical interpretability.

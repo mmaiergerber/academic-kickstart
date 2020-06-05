@@ -4,7 +4,7 @@
 title: "Statistical–Dynamical Forecasting of North Atlantic TC Activity on the Subseasonal Time Scales"
 event:
 event_url:
-location:
+location: Seeon, Bavaria, Germany
 address:
   street:
   city:
@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-06-05T14:26:17+02:00
 
-authors: []
+authors: [Michael Maier-Gerber, Andreas H. Fink, Michael Riemer]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -35,7 +35,7 @@ featured: false
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
