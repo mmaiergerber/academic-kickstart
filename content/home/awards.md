@@ -3,9 +3,9 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 100  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Awards & Honors"
 subtitle = ""
 
 # Date format
@@ -19,13 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Lindau Nobel Laureate Meetings"
+  organization_url = "https://www.lindau-nobel.org/"
+  title = "70th Lindau Meeting (Interdisciplinary)"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
+  certificate_url = ""
+  date_start = "2021-06-27"
+  #date_end = "2021-07-02"
   description = ""
 
 +++
