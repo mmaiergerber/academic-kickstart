@@ -20,12 +20,22 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Lindau Nobel Laureate Meetings"
-  organization_url = "https://www.lindau-nobel.org/"
+  organization_url = "https://www.lindau-nobel.org"
   title = "70th Lindau Meeting (Interdisciplinary)"
-  url = ""
+  url = "https://www.lindau-nobel.org/news-lindau-meetings-postponed/"
   certificate_url = ""
   date_start = "2021-06-27"
   #date_end = "2021-07-02"
+  description = ""
+
+[[item]]
+  organization = "Lindau Nobel Laureate Meetings"
+  organization_url = "https://www.lindau-nobel.org"
+  title = "Online Sciathon 2020 (3rd place in the category 'Capitalism After Corona')"
+  url = "http://sciathon.org"
+  certificate_url = ""
+  date_start = "2020-06-19"
+  #date_end = "2020-06-21"
   description = ""
 
 +++

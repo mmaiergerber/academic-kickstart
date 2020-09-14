@@ -93,14 +93,14 @@ phone = "(+49) 721 608-43358"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Wolfgang-Gaede-Str. 1", city = "Karlsruhe", region = "", postcode = "76131", country = "Germany", country_code = "US"}
+address = {street = "Wolfgang-Gaede-Str. 1", city = "Karlsruhe", region = "", postcode = "76131", country = "Germany", country_code = "DE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "49.01294", longitude = "8.411163"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 30.23 (Physik-Hochhaus) and take the stairs to Office 200 on Floor 2"
+directions = "Building 30.23 (Physik-Hochhaus) - Room 13.12b"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -140,7 +140,7 @@ date_format = "Jan 2, 2006"
 time_format = "3:04 PM"
 
 # Address format (choose from the [address_formats] list below or add you own to the list).
-address_format = "en-us"
+address_format = "de"
 
 ############################
 ## Advanced
