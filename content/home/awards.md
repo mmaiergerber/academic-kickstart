@@ -21,11 +21,21 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Lindau Nobel Laureate Meetings"
   organization_url = "https://www.lindau-nobel.org"
-  title = "70th Lindau Meeting (Interdisciplinary)"
+  title = "70th Lindau Nobel Laureate Meeting (Interdisciplinary)"
   url = "https://www.lindau-nobel.org/news-lindau-meetings-postponed/"
   certificate_url = ""
   date_start = "2021-06-27"
   #date_end = "2021-07-02"
+  description = ""
+
+[[item]]
+  organization = "Helmholtz AI"
+  organization_url = "https://www.helmholtz.ai"
+  title = "PhD Elevator Pitch Competition (2nd place)"
+  url = "https://www.helmholtz.ai/themenmenue/latest/events/helmholtz-ai-virtual-conference-2021/index.html"
+  certificate_url = ""
+  date_start = "2021-04-15"
+  #date_end = ""
   description = ""
 
 [[item]]

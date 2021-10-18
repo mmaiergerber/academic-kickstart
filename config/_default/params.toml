@@ -13,7 +13,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "my_theme"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -100,7 +100,7 @@ address = {street = "Wolfgang-Gaede-Str. 1", city = "Karlsruhe", region = "", po
 coordinates = {latitude = "49.01294", longitude = "8.411163"}
 
 # Directions for visitors to locate you.
-directions = "Building 30.23 (Physik-Hochhaus) - Room 13.12b"
+directions = "Physics Building (30.23) - Office 13.12b on the 13th floor"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

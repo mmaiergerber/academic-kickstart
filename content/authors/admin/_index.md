@@ -42,18 +42,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:michael.maier-gerber@kit.edu".
- icon: linkedin
-  icon_pack: ai
-  link: https://www.linkedin.com/in/michael-maier-gerber/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=kcyVoJsAAAAJ
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Michael_Maier-Gerber
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/michael-maier-gerber
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-3677-4414
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Michael_Maier-Gerber
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=kcyVoJsAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/mmaiergerber
@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Michael is a PhD student in the working group Atmospheric Dynamics, supervised by Andreas H. Fink and Michael Riemer (JGU, Mainz). As a member of the Transregional Collaborative Research Center Waves to Weather, I am working in project C3 (”Predictability of tropical and hybrid cyclones over the North Atlantic Ocean”) on the development of statistical-dynamical models for intraseasonal predictions of tropical cyclone activity. The aim of this work is to investigate a broad range of meteorologically relevant predictors, and to compare different model types and architectures with respect to their performance and physical interpretability.
+I am a PhD student in the working group Atmospheric Dynamics at the Karlsruhe Institute of Technology (KIT), supervised by Andreas H. Fink and Michael Riemer (JGU, Mainz). As a member of the Transregional Collaborative Research Center Waves to Weather, I am working in project C3 (”Predictability of tropical and hybrid cyclones over the North Atlantic Ocean”) on the development of statistical-dynamical models for intraseasonal predictions of tropical cyclone activity. The aim of this work is to investigate a broad range of meteorologically relevant predictors, and to compare different model types and architectures with respect to their performance and physical interpretability.
