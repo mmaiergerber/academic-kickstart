@@ -19,9 +19,18 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Research Visits"
+  company = "University of Colorado, University of Florida, State University of Albany and others"
+  company_url = ""
+  location = "USA"
+  date_start = "2018-04-01"
+  date_end = "2018-05-01"
+  description = "Funded by the Early-Career Scientist Grant of \"Waves to Weather\""
+
+[[experience]]
   title = "Research Assistant (PhD student)"
-  company = "Karlsruhe Institute of Technology (KIT)"
-  company_url = "https://www.kit.edu/english/index.php"
+  company = "WG Atmospheric Dynamics, Karlsruhe Institute of Technology (KIT)"
+  company_url = "https://www.imk-tro.kit.edu/english/5874.php"
   location = "Karlsruhe, Germany"
   date_start = "2017-12-01"
   date_end = ""
@@ -34,18 +43,9 @@ date_format = "Jan 2006"
   # """
 
 [[experience]]
-  title = "Research Visits"
-  company = "University of Colorado, University of Florida, State University of Albany and others"
-  company_url = ""
-  location = "USA"
-  date_start = "2018-04-01"
-  date_end = "2018-05-01"
-  description = "Funded by the Early-Career Scientist Grant of \"Waves to Weather\""
-
-[[experience]]
   title = "Research Assistant"
-  company = "Karlsruhe Institute of Technology (KIT)"
-  company_url = "https://www.kit.edu/english/index.php"
+  company = "WG Atmospheric Dynamics, Karlsruhe Institute of Technology (KIT)"
+  company_url = "https://www.imk-tro.kit.edu/english/5874.php"
   location = "Karlsruhe, Germany"
   date_start = "2017-05-01"
   date_end = "2017-12-01"
@@ -53,7 +53,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Student Research Assistant"
-  company = "Karlsruhe Institute of Technology (KIT)"
+  company = "WG Land Surfaces and Boundary Layer, Karlsruhe Institute of Technology (KIT)"
   company_url = "https://www.kit.edu/english/index.php"
   location = "Karlsruhe, Germany"
   date_start = "2015-02-01"
