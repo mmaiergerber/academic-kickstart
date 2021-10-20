@@ -19,32 +19,54 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Research Associate"
+  title = "Research Assistant (PhD student)"
   company = "Karlsruhe Institute of Technology (KIT)"
-  company_url = ""
+  company_url = "https://www.kit.edu/english/index.php"
   location = "Karlsruhe, Germany"
-  date_start = "2017-07-01"
+  date_start = "2017-12-01"
   date_end = ""
-  description = """
-  Active contribution in writing full proposal (including PhD project) of the DFG “Waves to Weather” (W2W; SFB 165) C3 project * Developing statistical-dynamical forecast models for subseasonal tropical cyclone activity based on deep learning approaches * Teaching and supervising students
-  """
+  # description = """<br>
+  # <ul style="list-style-position: inside; padding-left: 0;">
+  # <li>Writing of the project proposal</li>
+  # <li>Development and validation of statistical-dynamical models for subseasonal tropical cyclone activity</li>
+  # <li>Teaching and supervising students</li>
+  # </ul>
+  # """
+
+[[experience]]
+  title = "Research Visits"
+  company = "University of Colorado, University of Florida, State University of Albany and others"
+  company_url = ""
+  location = "USA"
+  date_start = "2018-04-01"
+  date_end = "2018-05-01"
+  description = "Funded by the Early-Career Scientist Grant of \"Waves to Weather\""
 
 [[experience]]
   title = "Research Assistant"
   company = "Karlsruhe Institute of Technology (KIT)"
-  company_url = ""
+  company_url = "https://www.kit.edu/english/index.php"
   location = "Karlsruhe, Germany"
   date_start = "2017-05-01"
-  date_end = "2017-07-01"
-  description = """Publication on a multiscale predictability case study for tropical transition of a North Atlantic Hurricane"""
+  date_end = "2017-12-01"
+  # description = """Publication on a multiscale predictability case study for tropical transition of a North Atlantic Hurricane"""
+
+[[experience]]
+  title = "Student Research Assistant"
+  company = "Karlsruhe Institute of Technology (KIT)"
+  company_url = "https://www.kit.edu/english/index.php"
+  location = "Karlsruhe, Germany"
+  date_start = "2015-02-01"
+  date_end = "2016-12-01"
+  # description = """Software development for the analysis of dropsonde measurements (KITsonde) * Created a website for KIT's integrated atmospheric observation system "KITcube" """
 
 [[experience]]
   title = "Research Internship"
   company = "Hurricane Research Division (AOML, NOAA)"
-  company_url = ""
+  company_url = "https://www.aoml.noaa.gov/hurricane-research-division"
   location = "Miami, FL, USA"
   date_start = "2014-05-01"
   date_end = "2014-08-01"
-  description = """Research project on Hurricane Ingrid using a new data assimilation technique * Participation in the airborne Hurricane field campaign in 2014"""
+  # description = """Research project on Hurricane Ingrid using a new data assimilation technique * Participation in the airborne Hurricane field campaign in 2014"""
 
 +++

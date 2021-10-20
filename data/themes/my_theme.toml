@@ -5,14 +5,16 @@ name = "My Theme"
 light = true
 
 # Primary
-primary = "#1a3a7c"
+primary = "#547bc7"
 
 # Menu
 menu_primary = "#1a3a7c" # 500
 menu_text = "#fff"
-menu_text_active = "#8c9eff" # A100
+menu_text_active = "#547bc7" # A100 #9296bc
 menu_title = "#fff"
 
 # Home sections
-home_section_odd = "rgb(240, 244, 249)"
-home_section_even = "rgb(248, 249, 254)"
+home_section_odd = "rgb(240, 240, 246)"    # color picked from gradient between #1a3a7c and #ffffff
+home_section_even = "rgb(247, 247, 250)"   # color picked from gradient between #1a3a7c and #ffffff
+#home_section_odd = "rgb(240, 244, 249)"
+#home_section_even = "rgb(248, 249, 254)"

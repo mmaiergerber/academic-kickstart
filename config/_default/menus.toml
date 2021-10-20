@@ -10,18 +10,23 @@
 
 [[main]]
   name = "Projects"
-  url = "#projects"
+  url = "#slider"
   weight = 20
 
 [[main]]
-  name = "Publications"
-  url = "#publications"
+  name = "Experience"
+  url = "#experience"
   weight = 30
 
 [[main]]
-  name = "Talks"
-  url = "#talks"
+  name = "Publications"
+  url = "#publications_1"
   weight = 40
+
+[[main]]
+  name = "Talks"
+  url = "#publications_2"
+  weight = 50
 
 [[main]]
   name = "Contact"

@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistant
+role: Research Assistant (PhD student)
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +21,10 @@ organizations:
 bio: My research interests include tropical cyclones, statistical-dynamical modelling and intraseasonal forecasting.
 
 interests:
-- Tropical Cyclones
-- Statistical Forecasting
-- Machine Learning
+- Tropical Cyclones & Extreme Events
+- Dynamical & Tropical Meteorology
+- Statistical Forecasting & Machine Learning
+- Forecast Verification
 
 education:
   courses:
@@ -69,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in the working group Atmospheric Dynamics at the Karlsruhe Institute of Technology (KIT), supervised by Andreas H. Fink and Michael Riemer (JGU, Mainz). As a member of the Transregional Collaborative Research Center Waves to Weather, I am working in project C3 (”Predictability of tropical and hybrid cyclones over the North Atlantic Ocean”) on the development of statistical-dynamical models for intraseasonal predictions of tropical cyclone activity. The aim of this work is to investigate a broad range of meteorologically relevant predictors, and to compare different model types and architectures with respect to their performance and physical interpretability.
+I am a PhD student in the working group <a href="https://www.imk-tro.kit.edu/english/5874.php">Atmospheric Dynamics</a> at the Karlsruhe Institute of Technology (KIT), supervised by Andreas H. Fink and Michael Riemer (JGU, Mainz). As a member of the DFG Transregional Collaborative Research Center "<a href="https://www.wavestoweather.de/">Waves to Weather</a>", I am working in <a href="https://www.wavestoweather.de/research_areas/phase2/c3/index.html">project C3</a> (”Predictability of tropical and hybrid cyclones over the North Atlantic Ocean”) on the development of statistical-dynamical models for probabilsitic predictions of sub-seasonal tropical cyclone activity. The aim of this work is to investigate a broad range of meteorologically relevant predictors, and to compare different model types and architectures with respect to their performance and physical interpretability.
